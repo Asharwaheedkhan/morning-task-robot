@@ -1,4 +1,4 @@
-# morning-task-robot
+# Robot
 It completes my daily morning tasks like:-
 1. Ring the alarm on time
 2. Make coffee
